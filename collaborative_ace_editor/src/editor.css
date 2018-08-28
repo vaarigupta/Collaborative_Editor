@@ -1,0 +1,36 @@
+/*.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}*/
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+.img1
+{
+	width: 100%;
+}
+.text
+{ 
+	
+	font-family: 'Pacifico', cursive;
+	font-size: 40px;
+	color: black;
+	text-align: center;
+	
+
+}
+.heading
+{
+	background-color: #FFD7C9;
+}
+
+.chat
+{
+	font-family: 'Pacifico', cursive;
+}
+.chatBox
+{
+	
+	border :2px solid black;
+	padding : 15px;
+}
