@@ -31,7 +31,7 @@ class Chat extends Component {
   ;
    database.ref("/messages").push().set({
     body: this.state.newMessage,
-    author: "aniket"
+    author: "Vaari"
    })
    this.setState(
    {
